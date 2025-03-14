@@ -1,1 +1,2 @@
 this is a new file for a github repo.
+add another file to the folder.
